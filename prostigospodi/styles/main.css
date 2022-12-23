@@ -1,0 +1,139 @@
+.fon{
+	position: fixed;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	z-index:-10px;
+}
+.brownie{
+	position: absolute;
+	left: 5%;
+	top: 1.55%;
+
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-size: 38px;
+	letter-spacing: -0.015em;
+	color: #F3E8E2;
+
+}
+
+.title{
+	position: absolute;
+	left: 35%;
+	top: 1.55%;
+
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-size: 38px;
+	letter-spacing: -0.015em;
+	color: #F3E8E2;
+
+}
+
+.menu{
+	position: absolute;
+	left: 4.55%;
+	top: 10%;
+
+
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 40px;
+	text-align: center;
+	letter-spacing: -0.015em;
+
+	color: #F3E8E2;
+
+}
+
+
+.contacts{
+	position: absolute;
+	top: -1%;
+	right:3%;
+	z-index:10px;
+}
+
+.soder{
+	position: absolute;
+	width: 82%;
+	height: 85%;
+	left: 14%;
+	top: 10%;
+
+	background: #d9d9d90d;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 38px;
+}
+.ph{
+	position: relative;
+	width: 28%;
+	left: 3%;
+	top: 3%;
+	border-radius: 19px;
+	box-align: left;
+
+}
+.name{
+	position: absolute;
+	left: 40%;
+	top: 3%;
+
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 70px;
+	line-height: 97px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: -0.015em;
+	color: #F3E8E2;
+}
+.inf{
+	
+	font-family: 'Comfortaa';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 60px;
+	display: flex;
+	align-items: center;
+	letter-spacing: -0.015em;
+	color: #F3E8E2;
+
+
+}
+.info{
+	position: absolute;
+	left: 35%;
+	top: 18%;
+
+}
+.info2{
+	position: absolute;
+	left: 3%;
+	top: 42%;
+
+}
+.but{
+	position: absolute;
+	left: 3%;
+	top: 85%;
+
+}
+.image{
+	width:200px;
+	height: 200px;
+	margin-bottom:100px;
+}
+
+.image:hover{
+	width:300px;
+	height: 300px;
+
+	
+}
